@@ -1,0 +1,8 @@
+spotipy~=2.20.0
+ipdb
+pip~=21.1.2
+toml~=0.10.2
+wheel~=0.36.2
+setuptools~=57.0.0
+packaging~=21.3
+pandas~=1.4.3
